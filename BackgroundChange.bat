@@ -1,0 +1,1 @@
+start javaw -jar C:\Users\diego\Desktop\BackgroundChange\BackgroundChange.jar
