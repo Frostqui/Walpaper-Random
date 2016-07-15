@@ -1,19 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package backgroundchange;
 import java.io.*;
 import java.net.URL;
 import java.util.Properties;
 import java.util.Scanner;
-/**
- * Modified again by pagoru on 17/05/2016.
- * Modified by cout970 on 14/05/2016.
- * Created by pagoru on 13/05/2016.
- * 
- */
+
+
+
+
 public class BackgroundChange {
 
    private static final String DEFAULT_CONFIG =
